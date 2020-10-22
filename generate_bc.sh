@@ -3,17 +3,6 @@
 
 test_dirs="
   basic_c_tests
-  basic_cpp_tests
-  complex_tests
-  cpp_types
-  cs_tests
-  fstbhc_tests
-  fstbhc_tests/fs_tests
-  fs_tests
-  mem_leak
-  mta
-  non_annotated_tests
-  path_tests
 "
 
 root=$(cd "$(dirname "$0")"; pwd)
